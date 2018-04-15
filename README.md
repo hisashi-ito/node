@@ -1,2 +1,2 @@
-# node
-node js programs
+#### node
+node js のサンプルコードを保存する。参考書として Node.js 超入門 (掌田津耶乃著）を利用している。
